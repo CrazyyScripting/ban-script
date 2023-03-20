@@ -1,0 +1,5 @@
+Hey! Due to Security Reasons, we have now a script to get your key. So the key can be only used in your account! And if is used on other account it
+makes the account banned because will inject a lot of logs! (if u didint do the linkvertises this key can make u get banned too!)
+
+Here Is The Script To Get Your Key: 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/CrazyyScripting/scripth/main/getter'))()
